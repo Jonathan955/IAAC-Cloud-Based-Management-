@@ -8,29 +8,29 @@ https://jonathan955.github.io/IAAC-Cloud-Based-Management-/
 
 Examples for Lecture 1
 These examples introduce html and javascript concepts used in the seminar.
-// Code: https://github.com/Jonathan955/lecture1.git
-Online: https://jonathan955.github.io/lecture1/example1/
+https://jonathan955.github.io/lecture1/example1/
+
 
 
 # LECTURE 2
 
 Examples for Lecture 2
 These examples introduce html and javascript concepts used in the seminar. This examples show how to use JavaScript libraries.
-Code: https://github.com/Jonathan955/lecture2.git
-Online: https://jonathan955.github.io/lecture2/example3/
+https://jonathan955.github.io/lecture2/example3/
 
 
 
 # LECTURE 3
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
-Code: https://github.com/Jonathan955/lecture3.git
-Online: https://jonathan955.github.io/lecture3/example2/
+https://jonathan955.github.io/lecture3/example2/
+
 
 
 # APP SERVER: GH ON THE WEB
 
 This TOWER Example shows the first excercise uploading a GH on the Web.  
 https://appserverunicorndata.herokuapp.com/view/Tower.gh
+
 
 
 # FINAL PROJECT
