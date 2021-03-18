@@ -8,7 +8,7 @@ https://jonathan955.github.io/IAAC-Cloud-Based-Management-/
 
 Examples for Lecture 1
 These examples introduce html and javascript concepts used in the seminar.
-Code: https://github.com/Jonathan955/lecture1.git
+// Code: https://github.com/Jonathan955/lecture1.git
 Online: https://jonathan955.github.io/lecture1/example1/
 
 
