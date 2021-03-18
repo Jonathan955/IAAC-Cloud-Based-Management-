@@ -9,16 +9,12 @@ Examples for Lecture 1
 These examples introduce html and javascript concepts used in the seminar.
 
 
-<iframe src="../example1/" width="500" height="500"></iframe>
-        <h2>embed element</h2>
-
 
 LECTURE 2
 
 Examples for Lecture 2
 
 These examples introduce html and javascript concepts used in the seminar. This examples show how to use JavaScript libraries.
-
 
 
 
