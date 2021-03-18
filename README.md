@@ -1,6 +1,6 @@
 # IAAC-Cloud-Based-Management-
 This is the gallery of the assignments for the final submission for Cloud Based Management Seminar at IAAC (MaCAD Program)
-http://127.0.0.1:5500/index.html
+https://jonathan955.github.io/IAAC-Cloud-Based-Management-/
 
 
 
@@ -8,21 +8,23 @@ http://127.0.0.1:5500/index.html
 
 Examples for Lecture 1
 These examples introduce html and javascript concepts used in the seminar.
-https://github.com/Jonathan955/lecture1.git
-
+Code: https://github.com/Jonathan955/lecture1.git
+Online: https://jonathan955.github.io/lecture1/example1/
 
 
 # LECTURE 2
 
 Examples for Lecture 2
 These examples introduce html and javascript concepts used in the seminar. This examples show how to use JavaScript libraries.
-https://github.com/Jonathan955/lecture2.git
+Code: https://github.com/Jonathan955/lecture2.git
+Online: https://jonathan955.github.io/lecture2/example3/
 
 
 
 # LECTURE 3
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
-https://github.com/Jonathan955/lecture3.git
+Code: https://github.com/Jonathan955/lecture3.git
+Online: https://jonathan955.github.io/lecture3/example2/
 
 
 # APP SERVER: GH ON THE WEB
@@ -35,7 +37,6 @@ https://appserverunicorndata.herokuapp.com/view/Tower.gh
 
 The final project shows an aggregation system that adapts to the conditions of the terrain allowing different forms of growth.
 The online project will allow the website users to generate a new settlement on the moon and to manipulate the sliders to generate different groups and to manipulate the size of the clusters.
-
 https://appserverunicorndata.herokuapp.com/examples/Final%20project/
 
 
