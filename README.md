@@ -9,6 +9,7 @@ http://127.0.0.1:5500/index.html
 Examples for Lecture 1
 
 These examples introduce html and javascript concepts used in the seminar.
+[Lecture 1](lecture1\example1\index.html)
 file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/index.html
 
 
