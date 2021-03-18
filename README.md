@@ -1,5 +1,6 @@
 # IAAC-Cloud-Based-Management-
 This is the gallery of the assignments for the final submission for Cloud Based Management Seminar at IAAC (MaCAD Program)
+http://127.0.0.1:5500/index.html
 
 
 
@@ -12,7 +13,7 @@ file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/index.html
 
 
 
-LECTURE 2
+# LECTURE 2
 
 Examples for Lecture 2
 
@@ -21,22 +22,21 @@ file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/lecture1/ex
 
 
 
-
-
-LECTURE 3
+# LECTURE 3
 
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
 
 
 
 
-APP SERVER: GH ON THE WEB
+# APP SERVER: GH ON THE WEB
 
 This TOWER Example shows the first excercise uploading a GH on the Web.  
 
 https://appserverunicorndata.herokuapp.com/view/Tower.gh
 
-FINAL PROJECT
+
+# FINAL PROJECT
 
 The final project shows an aggregation system that adapts to the conditions of the terrain allowing different forms of growth.
 The online project will allow the website users to generate a new settlement on the moon and to manipulate the sliders to generate different groups and to manipulate the size of the clusters.
