@@ -3,9 +3,7 @@ This is the gallery of the assignments for the final submission for Cloud Based 
 
 
 
-
-
-LECTURE 1
+# LECTURE 1
 
 Examples for Lecture 1
 
