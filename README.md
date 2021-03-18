@@ -1,22 +1,26 @@
 # IAAC-Cloud-Based-Management-
-
-file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/index.html
-
 This is the gallery of the assignments for the final submission for Cloud Based Management Seminar at IAAC (MaCAD Program)
+
+
+
+
 
 LECTURE 1
 
 Examples for Lecture 1
 
 These examples introduce html and javascript concepts used in the seminar.
+file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/index.html
 
-file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/lecture1/example1/index.html
+
 
 LECTURE 2
 
 Examples for Lecture 2
 
 These examples introduce html and javascript concepts used in the seminar. This examples show how to use JavaScript libraries.
+file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/lecture1/example1/index.html
+
 
 
 
