@@ -6,7 +6,7 @@ https://jonathan955.github.io/IAAC-Cloud-Based-Management-/
 
 # LECTURE 1
 
-Examples for Lecture 1
+Assigment for Lecture 1
 These examples introduce html and javascript concepts used in the seminar.
 https://jonathan955.github.io/lecture1/example1/
 
@@ -14,13 +14,15 @@ https://jonathan955.github.io/lecture1/example1/
 
 # LECTURE 2
 
-Examples for Lecture 2
+Assigment for Lecture 2
 These examples introduce html and javascript concepts used in the seminar. This examples show how to use JavaScript libraries.
 https://jonathan955.github.io/lecture2/example3/
 
 
 
 # LECTURE 3
+
+Assigment for Lecture 3
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
 https://jonathan955.github.io/lecture3/example2/
 
