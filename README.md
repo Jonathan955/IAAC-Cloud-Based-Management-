@@ -7,33 +7,27 @@ http://127.0.0.1:5500/index.html
 # LECTURE 1
 
 Examples for Lecture 1
-
 These examples introduce html and javascript concepts used in the seminar.
-[Lecture 1](Example1)
-file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/index.html
+https://github.com/Jonathan955/lecture1.git
 
 
 
 # LECTURE 2
 
 Examples for Lecture 2
-
 These examples introduce html and javascript concepts used in the seminar. This examples show how to use JavaScript libraries.
-file:///C:/Users/jonat/Documents/GitHub/IAAC-Cloud-Based-Management-/lecture1/example1/index.html
+https://github.com/Jonathan955/lecture2.git
 
 
 
 # LECTURE 3
-
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
-
-
+https://github.com/Jonathan955/lecture3.git
 
 
 # APP SERVER: GH ON THE WEB
 
 This TOWER Example shows the first excercise uploading a GH on the Web.  
-
 https://appserverunicorndata.herokuapp.com/view/Tower.gh
 
 
